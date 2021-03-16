@@ -18,7 +18,7 @@
 * Açılan penceredeki **Client ID** ile **Client Secret** bilgilerini **ayarlar.json** dosyasına giriyoruz
 ## Spotify Acces Token Alma
 * **[Base64Encode](https://www.base64encode.org/)** Sitesine giriyoruz.
-* Boş kısma **[ClientID]:[ClientSecret]** şeklinde giriyorsunuz. **(aradaki ( : ) çok önemli unutmayın)**
+* Boş kısma **<ClientID>:<ClientSecret>** şeklinde giriyorsunuz. **(aradaki ( : ) çok önemli unutmayın)**
 * **Encode** Tuşuna basın ve size veren uzun haneli tokeni **ayarlar.json** kısmındaki acces token yerine girin
 ## Botu Başlatma
 * İlk önce `CMD` açıp `npm i` ile modüller yükleyin
