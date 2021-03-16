@@ -1,5 +1,6 @@
 # Sroxyn-Music-Bot (Gelişmiş)
-# [SUNUCUMA GELMEK İÇİN TIKLA](https://discord.gg/wg66268tZb)
+## [Privime gelmek için](https://discord.gg/wg66268tZb)
+## [Destek sunucusu](https://discord.gg/45PaDkw2Vx)
 ## JAVA Kurulumu
 * İlk önce **`Java`** ve **`Java SDK Core`** Yüklemelisiniz
 * **[Java İndirmek İçin Tıklayınız](https://www.java.com/tr/download/)**
