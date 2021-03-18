@@ -1,5 +1,6 @@
 const { Manager } = require('erela.js')
 const Spotify  = require("erela.js-spotify");
+const Deezer  = require("erela.js-deezer");
 const { MessageEmbed } = require('discord.js');
 const conf = require('../ayarlar.json')
 const db = require('quick.db')
@@ -35,6 +36,7 @@ module.exports = client => {
       }
     ],
     plugins: [ 
+      new Deezer(),
       new Spotify(
         { 
           clientID, 
